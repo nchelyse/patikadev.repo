@@ -1,2 +1,2 @@
-# patikadev.repo
-patikadev veri analizi patikası ödevlerim
+# kodluyoruzilkrepo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
